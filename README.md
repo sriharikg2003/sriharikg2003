@@ -22,22 +22,20 @@
 - I possess excellent Algorithmic knowledge and problem-solving skills in Data Structures, along with formidable Analytical thinking and excellent communication skills.
 - My hobbies are playing volleyball, reading books, treking and coding.
 - Fun fact: One thing I cannot live without mobile and laptop.
-- How to reach me **pavanvpatil01@gmail.com**
+- How to reach me **sriharikg2003@gmail.com**
 
 <br><br>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <p align="left">
-  <a href="https://www.linkedin.com/in/pavan-kumar-v-patil-8693a0200/" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/srihari-k-g-91931a1ab/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="Pavan Kumar V Patil" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/pavanvpatil01/" target="blank"><img align="center"
+      alt="Srihari K G" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/sriharikg2003/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="Pavan Kumar V Patil" height="30" width="40" /></a>
-  <a href="https://twitter.com/pavanvpatil01" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="Pavan Kumar V Patil" height="30" width="40" /></a>
+      alt="Srihari K G" height="30" width="40" /></a>
+
 
 </p>
 
@@ -48,9 +46,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=red)&nbsp;
@@ -76,8 +72,8 @@
 
 <a href="https://github.com/pavanvpatil/">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=pavanvpatil&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pavanvpatil&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="pavanvpatil"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pavanvpatil&theme=tokyonight" alt="pavanvpatil"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sriharikg2003&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="srihari k g"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sriharikg2003&theme=tokyonight" alt="srihari k g"  />
 
 </a>
 </div>
